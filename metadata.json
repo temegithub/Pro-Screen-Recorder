@@ -1,0 +1,9 @@
+{
+  "name": "Pro Screen Recorder",
+  "description": "A powerful and feature-rich screen recording and screenshot application built for the web. Capture your screen, camera, and audio with high-quality settings, perform basic edits, and share your creations effortlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
